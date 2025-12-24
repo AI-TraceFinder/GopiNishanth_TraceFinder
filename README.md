@@ -17,15 +17,6 @@ dataset_summary.csv: A detailed summary of the scanner models, file counts, and 
 
 Milestone 1 Report.pdf: A formal documentation of the methodology and outcome
 
-To finalize your Milestone 2 README, you should highlight the transition from simple data collection to Forensic Feature Engineering and Predictive Modeling.
-
-Based on your actual notebook, the project has moved into extracting mathematical "fingerprints" from images and using a Logistic Regression classifier, which achieved an overall accuracy of 82.22%.
-
-Milestone 2: Feature Engineering & Classification
-Project: TraceFinder Forensic Scanner Identification
-Overview
-This milestone moves beyond raw image handling to focus on Forensic Feature Extraction and the development of a classification model. We utilize texture analysis and frequency domain transformations to identify the unique "noise" signatures left by different scanner hardwares.
-
 Milestone 2 Objectives
 Feature Extraction: Implementation of specialized algorithms to extract "micro-features" (LBP, FFT, and Noise Variance).
 
